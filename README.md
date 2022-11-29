@@ -231,7 +231,7 @@ I1+I2+I3=I
 
 250 mA+300 mA+800 mA=1350 mA=1.35 A
 
-**11. En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4 **
+**11. En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4**
 
 ![image](https://user-images.githubusercontent.com/116777118/204161211-bd8e56f2-fb78-4811-9ec6-7faa37ba3a4a.png)
 
