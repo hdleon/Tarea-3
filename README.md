@@ -169,7 +169,7 @@ PT=50 mW+50 mW+50 mW+50 mW+50 mW=250 mW
 
 **SECCIÓN 5–9 Mediciones de voltaje**
 
-**52. En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor?
+**52. En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor?**
 
 ![image](https://user-images.githubusercontent.com/116777118/204160868-2aaada1d-3c94-49ba-a506-470b84705f09.png)
 
